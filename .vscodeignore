@@ -1,0 +1,14 @@
+.<vscode">
+.vscode/**
+**/*.py
+**/*.pyc
+**/__pycache__/
+requirements.txt
+README.md
+.gitignore
+.vscodeignore
+**/.eslintrc.json
+**/.venv/
+**/.env
+.env
+.venv
